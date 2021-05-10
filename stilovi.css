@@ -1,0 +1,22 @@
+body{
+    background-color:lightgoldenrodyellow;
+}
+h1{
+    color: lightseagreen;
+    font-size: 40pt;
+    text-align: center;
+}
+h2{
+    color:lightseagreen;
+}
+p{
+    font-family: monospace;
+    color: darkolivegreen;
+    font-style: oblique;
+}
+pre{
+    font-family: monospace;
+    color: darkolivegreen;
+    font-style: oblique;
+}
+

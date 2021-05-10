@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>O autoru</title>
+    <link rel="stylesheet" href="stilovi.css">
+</head>
+<body>
+<a href="index">Index</a>
+<a href="stranice/Hrišćanstvo">Hrišćanstvo</a>
+
+<h1> Moji podaci </h1>
+
+<p><strong>Ime i prezime:</strong> <em>Miroslav Gavrilović</em> </p>
+
+<p><strong>Odeljenje:</strong><em> IV-1 </em></p>
+
+<p><strong>Adresa:</strong><em> Jug Bogdana 101 </em></p>
+
+<p><strong>Telefon:</strong><em> 062 728525 </em></p>
+<hr>
+
+<h2>Obrazovanje:</h2>
+
+<p>osnovno: <abbr title= "Osnovna Škola">OŠ</abbr> "Svete Sava" </p>
+
+<p>srednje: Gimnazija "20. Oktobar"</p>
+
+<p>budeće: Univerzitet Novi Sad prirodno matematički fakultet </p>
+<hr>
+
+
+
+</body>
+<html>

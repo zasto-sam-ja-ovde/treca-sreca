@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Index</title>
+    <link rel="stylesheet" href="stilovi.css">
+</head>
+<body>
+<h1>Hrišćanstvo</h1>
+
+<a href="stranice/O autoru">Lični podaci</a><br>
+<a href="stranice/Hrišćanstvo">Hrišćanstvo</a><br>
+
+
+
+
+
+
+
+
+</body>
+</html>
